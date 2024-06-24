@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Axel & Jules - Hidden Gems Through the Lens</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            margin: 0.5rem 0 0;
+            font-size: 1.2rem;
+            font-style: italic;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+            padding: 0.5rem 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 1rem;
+            font-size: 1rem;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            padding: 2rem;
+            max-width: 800px;
+            margin: auto;
+        }
+        section {
+            margin-bottom: 2rem;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Axel & Jules</h1>
+        <p>"Hidden Gems Through the Lens"</p>
+    </header>
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#blog">Blog</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Welcome to our blog! We are Axel & Jules, a creative couple based in London. Axel is a street photographer capturing the essence of urban life, while Jules is a jewellery designer creating unique pieces inspired by our travels. Our blog documents our life together, exploring how our creative disciplines inspire and intertwine from our hometown in London to our frequented corners of Europe and beyond.</p>
+            <p>Through our lens, we bring to light the hidden gems of the world, offering a unique perspective on photography and jewellery design. Join us on our journey as we share insights into the art we create and the places we discover.</p>
+        </section>
+        <section id="blog">
+            <h2>Our Blog</h2>
+            <p>Stay tuned for our latest posts where we will share stories, photos, and insights from our travels and creative adventures. From the bustling streets of London to the serene corners of Europe, we aim to bring you along on our journey.</p>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>If you’d like to get in touch, feel free to reach out via email at <a href="mailto:info@axelandjules.com">info@axelandjules.com</a>. We’d love to hear from you!</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Axel & Jules. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
